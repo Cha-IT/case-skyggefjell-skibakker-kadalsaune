@@ -1,5 +1,20 @@
 # Case: Skyggefjell Skibakker
 
+LEVER ALLE FILER TIL DIN BESVARELSE HER, det vil si PP-presentasjon, bilder av nettverksoppsett, kode til appen/nettsiden, notater om personvern, osv. Organiser i mapper etter oppgave, slik (eksempel):
+
+```
+-- DEL1
+  |-- Nettverkskart.jpg
+  |-- Sikkerhetstiltak.md (eller .docx)
+-- DEL2
+  |-- index.html
+  |-- app.js
+  |-- (osv)
+-- DEL3
+  |-- Personvern.md
+-- Presentasjon.pptx
+```
+
 ## Casebeskrivelse
 
 Skyggefjell Skibakker AS planlegger å bygge en ny, topp kvalitets skibakke på Skyggefjell ski resort. For å sikre at gjestene har tilgang til det trådløse nettverket på hele resort-anlegget, vil firmaet bygge et nytt nettverk som dekker alle skiløyper, restauranten og skibutikken. Det vil være et administrativt nettverk som kun ansatte vil ha tilgang til, og et gjestenettverk som vil kreve et aktivt skikort for å få tilgang.
